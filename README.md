@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 ## Code Colosseum (팀-3인)
 - 코드 스테이츠 블록체인 과정 Final Project (22년 05월)
 - 코딩 테스트 문제를 출제/해결하고 보상을 얻는 블록체인 토큰 이코노미 기반의 온라인 저지
+- 채점 서버 구현, 메인 서버 문제 관련 API 구현(문제 출제, 답안 제출, 문제 목록, 상세 페이지 등) 등
 - git https://github.com/codestates/beb-03-project3-CodeColosseum
 
 ## CLINDAR (팀-2인)
 - 클라이머들을 위한 캘린더 (22년 6월 25일 ~ 진행 중)
+- 서버 구현 (Nest.JS, GraphQL, Apollo Server)
 - git https://github.com/clean-E/clindar
